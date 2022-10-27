@@ -35,6 +35,9 @@ figcaption {
     text-align: center
 }
 
+ul {
+	list-style-position: inside;
+  }
 
 .column {
 	float: left;
