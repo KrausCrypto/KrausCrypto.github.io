@@ -37,10 +37,12 @@ a {
 	float:left;	
 	width: 300px;
 	min-height: 300px;
+	padding:10px;
 }
 
 .right {
 	float:right;
 	width: 300px;
 	min-height: 300px;
+	padding:10px;
 }
