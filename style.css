@@ -13,14 +13,18 @@ nav li {
 	display: inline;
 	text-align: center;
     margin-left: 75px;
-	color:#394053;
+	
 }
 
 a {
-	display: block;
-	padding: 8px;
-	background-color: #7CAE7A;
-  }
+	font-family: cursive, sans-serif;
+	color: black;
+	text-decoration: none;
+	background-color: #4E4A59;
+	text-align: center;
+	padding: 1px;
+}
+
 
 h1 {
     text-align: center;
