@@ -16,6 +16,12 @@ nav li {
 	color:#394053;
 }
 
+a {
+	display: block;
+	padding: 8px;
+	background-color: #7CAE7A;
+  }
+
 h1 {
     text-align: center;
 }
@@ -24,6 +30,8 @@ h1 {
 figcaption {
     text-align: center
 }
+
+
 
 
 
