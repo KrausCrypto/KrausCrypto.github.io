@@ -1,11 +1,11 @@
 body {
-    font-family: fantasy, serif;
+    font-family: fantasy,sans-serif;
     color: #394053;
     background-color:#839073;
     text-align: center;
-    width: 960px;
+    width: 750px;
 	margin: 0 auto;
-    padding: 30px;
+    padding: 15px;
     
 }
 
@@ -24,14 +24,7 @@ figcaption {
     text-align: center
 }
 
-a {
-	font-family: cursive, sans-serif;
-    color: black;
-	text-decoration: none;
-	border: 2px #6E6362;
-	text-align: center;
-	padding: 1px;
-}
+
 
 .left {
 	float:left;	
