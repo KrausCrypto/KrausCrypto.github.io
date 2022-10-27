@@ -32,19 +32,15 @@ figcaption {
 }
 
 
+.column {
+	float: left;
+	width: 33.33%;
+	padding: 5px;
+  }
+  
 
-
-
-.left {
-	float:left;	
-	width: 300px;
-	min-height: 300px;
-	padding:10px;
-}
-
-.right {
-	float:right;
-	width: 300px;
-	min-height: 300px;
-	padding:10px;
+.row::after {
+content: "";
+clear: both;
+display: table;
 }
